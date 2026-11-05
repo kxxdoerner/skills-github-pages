@@ -1,3 +1,3 @@
 ---
-USM Tubemap
+USM
 ---
